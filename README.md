@@ -16,3 +16,4 @@ All project code found in churn-bayesian.ipynb
 TODO: 
 * Fix GCP environment to properly display Ax plotly rendered plots
 * Further analysis on results, specifically on bandit acquisition function choices throughout course of experiment
+* Complete and commit final report on the project
